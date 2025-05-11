@@ -13,7 +13,7 @@ This repository is published for demonstration purposes only.
 Redistribution or commercial use is not permitted without explicit permission.
 
 ---
-> ⚠️ **This is not a template-based generator.**  
+## This is not a template-based generator.
   While the interface uses dropdowns and forms for simplicity,  
   this project is fundamentally a **semantic graph-driven compiler.**  
 
