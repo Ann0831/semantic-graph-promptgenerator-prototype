@@ -18,9 +18,11 @@ Redistribution or commercial use is not permitted without explicit permission.
 While the interface uses dropdowns and forms for simplicity,  
 this project is fundamentally a **semantic graph-driven compiler.**
 
-Users define logical components as nodes in a directed graph.  
-These nodes and their relationships are converted into structured prompts,  
-which are then fed to AI to generate **executable backend logic.**
+Users define logical components as nodes in a directed graph.
+Each node’s internal logic should be described manually by the user in natural language.
+The type of interaction between components is specified using dropdown selections.
+These nodes and their relationships are then compiled into structured prompts.
+which are then fed to AI to generate **executable backend code.**
 
 > It's not configuration — it's compilation.  
 > Since the component types within each environment, as well as the categories of their interactions, can all be exhaustively enumerated, they are implemented as dropdown selections.
