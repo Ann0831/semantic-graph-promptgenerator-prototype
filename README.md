@@ -1,13 +1,16 @@
-## License
 
-© 2025 陳毅安 / YI-AN CHEN. All rights reserved.  
-This repository is published for demonstration purposes only.  
-Redistribution or commercial use is not permitted without explicit permission.
 # Semantic Graph Prompt Generator (Prototype)
 
 This is a prototype system for generating backend prompt descriptions from semantic graphs.
 
 It demonstrates a **document-driven development** workflow, where structured semantic graph data is transformed into code-ready textual prompts.
+
+
+## License
+
+© 2025 陳毅安 / YI-AN CHEN. All rights reserved.  
+This repository is published for demonstration purposes only.  
+Redistribution or commercial use is not permitted without explicit permission.
 
 ---
 
