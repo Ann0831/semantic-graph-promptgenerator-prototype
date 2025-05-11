@@ -15,12 +15,13 @@ It demonstrates a **document-driven development** workflow, where structured sem
 
 - [`graphBuilder.html`](graphBuilder.html)  
   Visual editor for defining components and relationships in your software system.
-
+      - [Open graphBuilder.html](https://ann0831.github.io/semantic-graph-promptgenerator-prototype/graphBuilder.html)
 - [`promptGenerator.html`](promptGenerator.html)  
-  Compose structured prompts based on the graph.  
+  Compose structured prompts based on the graph.
   These prompts can be used directly with AI to generate the code for each component.
-
+      - [Open promptGenerator.html](https://ann0831.github.io/semantic-graph-promptgenerator-prototype/promptGenerator.html)
 - [`graphToText.html`](graphToText.html)  
   Convert the graph into readable plain text, useful for documentation or prompt-based workflows.
+      - [Open graphToText.html](https://ann0831.github.io/semantic-graph-promptgenerator-prototype/graphToText.html)
 
 > Simply open these HTML files in your browser. No backend or installation required.
